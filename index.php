@@ -1,4 +1,4 @@
-<?php
+<?php // Mitchell Bennis - mitch@elementengage.com - 02/24
 
 // These regex aims to remove characters not allowed in a file name.
 // The pattern '/[^\w-.~\x00A0-\xD7FF\xF900-\xFDCF\xFDF0-\xFFEF]+/' 

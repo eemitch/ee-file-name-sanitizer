@@ -3,6 +3,8 @@
 // License: EULA | https://simplefilelist.com/end-user-license-agreement/
 // All changes to, modifications to, or re-uses of this script are prohibited without prior consent.
 
+const eeSFL_SanitizeFileName_Version = '2.0.2';
+
 // Remove these chars from file names
 const eeSFL_RegEx_Remove = /[^\w-.~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+/g;
 const eeSFL_RegEx_Replace = /[.\s]+/g;
